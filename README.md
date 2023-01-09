@@ -1,4 +1,4 @@
-I have done these project on Methods of classification and dimensionality reduction course during my Mathematics studies. Detailed descriptions of problems and obtained results are written in polish and included in pdf files. 
+I have done these projects on Methods of classification and dimensionality reduction course during my Mathematics studies. Detailed descriptions of problems and obtained results are written in polish and included in pdf files. 
 
 # Projects included
 
