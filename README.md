@@ -6,5 +6,5 @@ I have done these projects on Methods of classification and dimensionality reduc
 2. Finding DNA motifs on simulated DNA sequences
 - NumPy
 - self implemented appropriate version of EM algorithm
-3. Classification of home devices bsaed on energy consumption data
+3. Classification of home devices based on energy consumption data
 - implementation of Hidden Markov Models from sklearn
